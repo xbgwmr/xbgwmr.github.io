@@ -1,6 +1,6 @@
 /*!
  * Theme Name:      Halloween Caviar
- * Version:         0.0.4
+ * Version:         0.0.5
  */
 /* External fonts */
 @import url("https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i|Roboto+Mono:400,400i,700,700i");
@@ -21,7 +21,7 @@ body {
 a {
   text-decoration: none;
   border: none;
-  color: #85878f;
+  color: #8e6fce;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -4184,7 +4184,7 @@ a > span[class^=permission_]:active {
 
 /* Torrent status */
 .tor_highlight_seed {
-  color: #5E3291 !important;
+  color: #8e6fce !important;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -4194,7 +4194,7 @@ a > span[class^=permission_]:active {
   color: #E77120 !important;
 }
 .discog .tor_highlight_seed {
-  color: #5E3291 !important;
+  color: #8e6fce !important;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -4205,7 +4205,7 @@ a > span[class^=permission_]:active {
 }
 
 .tor_highlight_leech {
-  color: #fbde6e !important;
+  color: #96C457 !important;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -4215,7 +4215,7 @@ a > span[class^=permission_]:active {
   color: #E77120 !important;
 }
 .discog .tor_highlight_leech {
-  color: #fbde6e !important;
+  color: #96C457 !important;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -4226,7 +4226,7 @@ a > span[class^=permission_]:active {
 }
 
 .tor_highlight_snatch {
-  color: #d71a41 !important;
+  color: #EB6123 !important;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -4236,7 +4236,7 @@ a > span[class^=permission_]:active {
   color: #E77120 !important;
 }
 .discog .tor_highlight_snatch {
-  color: #d71a41 !important;
+  color: #EB6123 !important;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
