@@ -1,6 +1,6 @@
 /*!
  * Theme Name:      Halloween Caviar
- * Version:         0.0.5
+ * Version:         0.0.6
  */
 /* External fonts */
 @import url("https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i|Roboto+Mono:400,400i,700,700i");
@@ -4184,24 +4184,24 @@ a > span[class^=permission_]:active {
 
 /* Torrent status */
 .tor_highlight_seed {
-  color: #8e6fce !important;
+  color: #5E3291 !important;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
   transition: none;
 }
 .tor_highlight_seed:hover, .tor_highlight_seed:focus, .tor_highlight_seed:active {
-  color: #E77120 !important;
+  color: #E9804D !important;
 }
 .discog .tor_highlight_seed {
-  color: #8e6fce !important;
+  color: #5E3291 !important;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
   transition: none;
 }
 .discog .tor_highlight_seed:hover, .discog .tor_highlight_seed:focus, .discog .tor_highlight_seed:active {
-  color: #E77120 !important;
+  color: #E9804D !important;
 }
 
 .tor_highlight_leech {
@@ -4212,7 +4212,7 @@ a > span[class^=permission_]:active {
   transition: none;
 }
 .tor_highlight_leech:hover, .tor_highlight_leech:focus, .tor_highlight_leech:active {
-  color: #E77120 !important;
+  color: #E9804D !important;
 }
 .discog .tor_highlight_leech {
   color: #96C457 !important;
@@ -4222,7 +4222,7 @@ a > span[class^=permission_]:active {
   transition: none;
 }
 .discog .tor_highlight_leech:hover, .discog .tor_highlight_leech:focus, .discog .tor_highlight_leech:active {
-  color: #E77120 !important;
+  color: #E9804D !important;
 }
 
 .tor_highlight_snatch {
@@ -4233,7 +4233,7 @@ a > span[class^=permission_]:active {
   transition: none;
 }
 .tor_highlight_snatch:hover, .tor_highlight_snatch:focus, .tor_highlight_snatch:active {
-  color: #E77120 !important;
+  color: #E9804D !important;
 }
 .discog .tor_highlight_snatch {
   color: #EB6123 !important;
@@ -4243,7 +4243,7 @@ a > span[class^=permission_]:active {
   transition: none;
 }
 .discog .tor_highlight_snatch:hover, .discog .tor_highlight_snatch:focus, .discog .tor_highlight_snatch:active {
-  color: #E77120 !important;
+  color: #E9804D !important;
 }
 
 /* Containers */
