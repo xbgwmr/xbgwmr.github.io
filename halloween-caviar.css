@@ -972,10 +972,10 @@ li.potato-menu-has-vertical:nth-of-type(3) .potato-menu-group .potato-menu-item 
 }
 
 li.potato-menu-has-vertical:nth-of-type(4) a {
-  background: #C03C09;
+  background: #F5CD08;
 }
 li.potato-menu-has-vertical:nth-of-type(4) .potato-menu-group .potato-menu-item a:hover {
-  background: #862a06;
+  background: #ab8f05;
 }
 
 li.potato-menu-has-vertical:nth-of-type(5) a {
@@ -3488,10 +3488,10 @@ img[src$="/common/caticons/series-hd.png"] {
 
 img[src$="/common/caticons/episode-sd.png"],
 img[src$="/common/caticons/series-sd.png"] {
-  -webkit-filter: hue-rotate(30deg) saturate(25%) brightness(222%);
-  -moz-filter: hue-rotate(30deg) saturate(25%) brightness(222%);
-  -o-filter: hue-rotate(30deg) saturate(25%) brightness(222%);
-  filter: hue-rotate(30deg) saturate(25%) brightness(222%);
+  -webkit-filter: hue-rotate(45deg) saturate(100%) brightness(222%);
+  -moz-filter: hue-rotate(45deg) saturate(100%) brightness(222%);
+  -o-filter: hue-rotate(45deg) saturate(100%) brightness(222%);
+  filter: hue-rotate(45deg) saturate(100%) brightness(222%);
 }
 
 img[src$="/common/caticons/episode-hd.png"] {
@@ -3737,10 +3737,10 @@ img[title=Unread] {
   height: 35px;
   padding-left: 47px;
   width: 0;
-  -webkit-filter: hue-rotate(178deg) saturate(59%) brightness(200%);
-  -moz-filter: hue-rotate(178deg) saturate(59%) brightness(200%);
-  -o-filter: hue-rotate(178deg) saturate(59%) brightness(200%);
-  filter: hue-rotate(178deg) saturate(59%) brightness(200%);
+  -webkit-filter: hue-rotate(-91deg) saturate(59%) brightness(200%);
+  -moz-filter: hue-rotate(-91deg) saturate(59%) brightness(200%);
+  -o-filter: hue-rotate(-91deg) saturate(59%) brightness(200%);
+  filter: hue-rotate(-91deg) saturate(59%) brightness(200%);
 }
 
 img[title=Read] {
