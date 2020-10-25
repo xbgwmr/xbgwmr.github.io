@@ -956,49 +956,49 @@ li.potato-menu-has-vertical:nth-of-type(1) a {
   background: #5E3291;
 }
 li.potato-menu-has-vertical:nth-of-type(1) .potato-menu-group .potato-menu-item a:hover {
-  background: #0b4a57;
+  background: #412365;
 }
 
 li.potato-menu-has-vertical:nth-of-type(2) a {
   background: #E77120;
 }
 li.potato-menu-has-vertical:nth-of-type(2) .potato-menu-group .potato-menu-item a:hover {
-  background: #1c606a;
+  background: #a14f16;
 }
 
 li.potato-menu-has-vertical:nth-of-type(3) a {
-  background: #F5CD08;
+  background: #6EBE44;
 }
 li.potato-menu-has-vertical:nth-of-type(3) .potato-menu-group .potato-menu-item a:hover {
-  background: #1b6873;
+  background: #4d852f;
 }
 
 li.potato-menu-has-vertical:nth-of-type(4) a {
-  background: #6EBE44;
+  background: #C03C09;
 }
 li.potato-menu-has-vertical:nth-of-type(4) .potato-menu-group .potato-menu-item a:hover {
-  background: #318f92;
+  background: #862a06;
 }
 
 li.potato-menu-has-vertical:nth-of-type(5) a {
   background: #969696;
 }
 li.potato-menu-has-vertical:nth-of-type(5) .potato-menu-group .potato-menu-item a:hover {
-  background: #329f93;
+  background: #696969;
 }
 
 li.potato-menu-has-vertical:nth-of-type(6) a {
   background: #DDD4C0;
 }
 li.potato-menu-has-vertical:nth-of-type(6) .potato-menu-group .potato-menu-item a:hover {
-  background: #5abaa0;
+  background: #9a9486;
 }
 
 li.potato-menu-has-vertical:nth-of-type(7) a {
   background: #1B1919;
 }
 li.potato-menu-has-vertical:nth-of-type(7) .potato-menu-group .potato-menu-item a:hover {
-  background: #6cc79b;
+  background: #484646;
 }
 
 #nav_bonus > a {
@@ -1019,7 +1019,7 @@ li.potato-menu-has-vertical:nth-of-type(7) .potato-menu-group .potato-menu-item 
 
 .alertbar {
   position: relative;
-  background: linear-gradient(to right, #5E3291, #E77120, #F5CD08, #6EBE44, #969696, #DDD4C0, #1B1919);
+  background: linear-gradient(to right, #5E3291, #E77120, #6EBE44, #C03C09, #969696, #DDD4C0, #1B1919);
   text-align: center;
   color: white;
   font-size: 0.8em;
@@ -1196,7 +1196,7 @@ li.ui-state-hover {
 }
 
 #ui-active-menuitem {
-  background: #0b4a57 !important;
+  background: #412365 !important;
   margin: 0 !important;
 }
 
@@ -4377,7 +4377,7 @@ a:active .User {
   left: -1px;
   bottom: -2px;
   right: -1px;
-  background: linear-gradient(to right, #5E3291, #E77120, #F5CD08, #6EBE44, #969696, #DDD4C0, #1B1919);
+  background: linear-gradient(to right, #5E3291, #E77120, #6EBE44, #C03C09, #969696, #DDD4C0, #1B1919);
 }
 
 .alertbar[style="border:1px solid #360;background-color:#120;margin-bottom:3px;"] {
