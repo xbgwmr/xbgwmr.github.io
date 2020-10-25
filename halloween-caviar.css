@@ -2345,7 +2345,7 @@ table.slice {
 
 .save_message {
   color: white;
-  background-color: #93d4a2;
+  background-color: #5E3291;
   margin-top: 2px;
   text-align: center;
   padding: 10px;
@@ -4186,7 +4186,7 @@ a > span[class^=permission_]:active {
 
 /* Torrent status */
 .tor_highlight_seed {
-  color: #93d4a2 !important;
+  color: #5E3291 !important;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -4196,7 +4196,7 @@ a > span[class^=permission_]:active {
   color: #E77120 !important;
 }
 .discog .tor_highlight_seed {
-  color: #93d4a2 !important;
+  color: #5E3291 !important;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
