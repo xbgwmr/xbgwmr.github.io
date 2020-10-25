@@ -1,6 +1,6 @@
 /*!
  * Theme Name:      Halloween Caviar
- * Version:         0.0.3
+ * Version:         0.0.4
  */
 /* External fonts */
 @import url("https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i|Roboto+Mono:400,400i,700,700i");
@@ -3567,7 +3567,7 @@ img[src$="/common/browsetags/20x.png"] {
   height: 15px;
   padding-left: 45px;
   width: 0;
-  background-color: #6fc492;
+  background-color: #E9804D;
 }
 
 img[src$="/common/browsetags/fast.png"] {
@@ -3577,7 +3577,7 @@ img[src$="/common/browsetags/fast.png"] {
   height: 15px;
   padding-left: 45px;
   width: 0;
-  background-color: #412382;
+  background-color: #8e6fce;
 }
 
 img[src$="/common/browsetags/auto.png"] {
@@ -3587,7 +3587,7 @@ img[src$="/common/browsetags/auto.png"] {
   height: 15px;
   padding-left: 45px;
   width: 0;
-  background-color: #96C457;
+  background-color: #EB6123;
 }
 
 img[src$="/common/browsetags/foreign.png"] {
@@ -3597,7 +3597,7 @@ img[src$="/common/browsetags/foreign.png"] {
   height: 15px;
   padding-left: 45px;
   width: 0;
-  background-color: #96C457;
+  background-color: #EB6123;
 }
 
 img[src$="/common/icons/UpVote.png"] {
