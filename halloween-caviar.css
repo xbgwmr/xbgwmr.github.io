@@ -1,6 +1,6 @@
 /*!
  * Theme Name:      Halloween Caviar
- * Version:         0.1.2
+ * Version:         0.1.3
  */
 /* External fonts */
 @import url("https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i|Roboto+Mono:400,400i,700,700i|Noto+Serif:400,400i,700,700i");
@@ -1017,7 +1017,7 @@ li.potato-menu-has-vertical:nth-of-type(7) .potato-menu-group .potato-menu-item 
 
 .alertbar {
   position: relative;
-  background: linear-gradient(to right, #5E3291, #E77120, #6EBE44, #C03C09, #969696, #DDD4C0, #1B1919);
+  background: linear-gradient(to right, #5e32ba, #eb6123);
   text-align: center;
   color: white;
   font-size: 0.8em;
@@ -3989,37 +3989,37 @@ body a.permission_3, body .permission_3 {
 }
 
 body a.permission_4, body .permission_4 {
-  color: #4aac85;
+  color: #4b2894;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_5, body .permission_5 {
-  color: #64bd8d;
+  color: #542da7;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_24, body .permission_24 {
-  color: #7ecd95;
+  color: #5e32ba;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_7, body .permission_7 {
-  color: #99de9e;
+  color: #6e46c0;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_33, body .permission_33 {
-  color: #b3eea6;
+  color: #7e5ac7;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_43, body .permission_43 {
-  color: #cdffae;
+  color: #8e6fce;
   font-weight: inherit;
   font-style: normal;
 }
