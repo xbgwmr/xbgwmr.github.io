@@ -1,6 +1,6 @@
 /*!
  * Theme Name:      Halloween Caviar
- * Version:         0.1.4
+ * Version:         0.1.5
  */
 /* External fonts */
 @import url("https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i|Roboto+Mono:400,400i,700,700i|Noto+Serif:400,400i,700,700i");
@@ -4184,7 +4184,7 @@ a > span[class^=permission_]:active {
 
 /* Torrent status */
 .tor_highlight_seed {
-  color: #8e6fce !important;
+  color: #96c457 !important;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -4194,7 +4194,7 @@ a > span[class^=permission_]:active {
   color: #E9804D !important;
 }
 .discog .tor_highlight_seed {
-  color: #8e6fce !important;
+  color: #96c457 !important;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
