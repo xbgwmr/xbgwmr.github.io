@@ -1,6 +1,6 @@
 /*!
  * Theme Name:      Halloween Caviar
- * Version:         0.2.1
+ * Version:         0.2.2
  */
 /* External fonts */
 @import url("https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i|Roboto+Mono:400,400i,700,700i|Noto+Serif:400,400i,700,700i");
@@ -447,7 +447,7 @@ p.min_padding {
 
 .head {
   color: #211d29;
-  background: #000000;
+  background: #23252a;
   font-weight: 700;
   font-size: 12px;
   border-bottom: none;
