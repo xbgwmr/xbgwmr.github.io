@@ -1,6 +1,6 @@
 /*!
  * Theme Name:      Christmas Caviar
- * Version:         0.1.3
+ * Version:         0.2.0
  */
 /* External fonts */
 @import url("https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i|Roboto+Mono:400,400i,700,700i|Noto+Serif:400,400i,700,700i");
@@ -15,7 +15,7 @@ body {
   font-family: "Lato", Helvetica, Arial, sans-serif;
   font-size: 14px;
   color: #e9e9e9;
-  background: #090512;
+  background: #001E00;
 }
 
 a {
@@ -3750,10 +3750,10 @@ img[title=Unread] {
   height: 35px;
   padding-left: 47px;
   width: 0;
-  -webkit-filter: hue-rotate(-91deg) saturate(59%) brightness(200%);
-  -moz-filter: hue-rotate(-91deg) saturate(59%) brightness(200%);
-  -o-filter: hue-rotate(-91deg) saturate(59%) brightness(200%);
-  filter: hue-rotate(-91deg) saturate(59%) brightness(200%);
+  -webkit-filter: hue-rotate(147deg) saturate(59%) brightness(200%);
+  -moz-filter: hue-rotate(147deg) saturate(59%) brightness(200%);
+  -o-filter: hue-rotate(147deg) saturate(59%) brightness(200%);
+  filter: hue-rotate(147deg) saturate(59%) brightness(200%);
 }
 
 img[title=Read] {
@@ -4002,37 +4002,37 @@ body a.permission_3, body .permission_3 {
 }
 
 body a.permission_4, body .permission_4 {
-  color: #6e46c0;
+  color: #c52a2a;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_5, body .permission_5 {
-  color: #7e5ac7;
+  color: #b14030;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_24, body .permission_24 {
-  color: #C52A2A;
+  color: #9e5636;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_7, body .permission_7 {
-  color: #9e84d5;
+  color: #8b6d3c;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_33, body .permission_33 {
-  color: #ae98dc;
+  color: #788342;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_43, body .permission_43 {
-  color: #beade3;
+  color: #659a48;
   font-weight: inherit;
   font-style: normal;
 }
