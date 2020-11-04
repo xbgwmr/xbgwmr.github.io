@@ -1,6 +1,6 @@
 /*!
  * Theme Name:      Christmas Caviar
- * Version:         0.1.2
+ * Version:         0.1.3
  */
 /* External fonts */
 @import url("https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i|Roboto+Mono:400,400i,700,700i|Noto+Serif:400,400i,700,700i");
@@ -901,7 +901,6 @@ body div#DonInfo a {
   line-height: 50px !important;
   text-align: center;
   vertical-align: middle;
-  color: white;
   text-decoration: none;
   overflow: hidden !important;
   white-space: nowrap;
@@ -951,9 +950,11 @@ ul.potato-menu ul.potato-menu-group a {
 }
 
 li.potato-menu-has-vertical:nth-of-type(1) a {
+    color: white;
   background: #c52a2a;
 }
 li.potato-menu-has-vertical:nth-of-type(1) .potato-menu-group .potato-menu-item a:hover {
+  color: white;
   background: #9d2121;
 }
 
@@ -967,9 +968,11 @@ li.potato-menu-has-vertical:nth-of-type(2) .potato-menu-group .potato-menu-item 
 }
 
 li.potato-menu-has-vertical:nth-of-type(3) a {
+  color: white;
   background: #659a48;
 }
 li.potato-menu-has-vertical:nth-of-type(3) .potato-menu-group .potato-menu-item a:hover {
+  color: white;
   background: #507b39;
 }
 
@@ -983,9 +986,11 @@ li.potato-menu-has-vertical:nth-of-type(4) .potato-menu-group .potato-menu-item 
 }
 
 li.potato-menu-has-vertical:nth-of-type(5) a {
+  color: white;
   background: #c52a2a;
 }
 li.potato-menu-has-vertical:nth-of-type(5) .potato-menu-group .potato-menu-item a:hover {
+  color: white;
   background: #9d2121;
 }
 
@@ -999,9 +1004,11 @@ li.potato-menu-has-vertical:nth-of-type(6) .potato-menu-group .potato-menu-item 
 }
 
 li.potato-menu-has-vertical:nth-of-type(7) a {
+  color: white;
   background: #659a48;
 }
 li.potato-menu-has-vertical:nth-of-type(7) .potato-menu-group .potato-menu-item a:hover {
+  color: white;
   background: #507b39;
 }
 
@@ -3486,18 +3493,18 @@ body#reports textarea[name=reason] {
 /* Image replacements */
 img[src$="/common/caticons/episode-hd.png"],
 img[src$="/common/caticons/series-hd.png"] {
-  -webkit-filter: hue-rotate(-90deg) saturate(60%) brightness(170%);
-  -moz-filter: hue-rotate(-90deg) saturate(60%) brightness(170%);
-  -o-filter: hue-rotate(-90deg) saturate(60%) brightness(170%);
-  filter: hue-rotate(-90deg) saturate(60%) brightness(170%);
+  -webkit-filter: hue-rotate(0deg) saturate(60%) brightness(170%);
+  -moz-filter: hue-rotate(0deg) saturate(60%) brightness(170%);
+  -o-filter: hue-rotate(0deg) saturate(60%) brightness(170%);
+  filter: hue-rotate(0deg) saturate(60%) brightness(170%);
 }
 
 img[src$="/common/caticons/episode-sd.png"],
 img[src$="/common/caticons/series-sd.png"] {
-  -webkit-filter: hue-rotate(45deg) saturate(100%) brightness(222%);
-  -moz-filter: hue-rotate(45deg) saturate(100%) brightness(222%);
-  -o-filter: hue-rotate(45deg) saturate(100%) brightness(222%);
-  filter: hue-rotate(45deg) saturate(100%) brightness(222%);
+  -webkit-filter: hue-rotate(107deg) saturate(100%) brightness(222%);
+  -moz-filter: hue-rotate(107deg) saturate(100%) brightness(222%);
+  -o-filter: hue-rotate(107deg) saturate(100%) brightness(222%);
+  filter: hue-rotate(107deg) saturate(100%) brightness(222%);
 }
 
 img[src$="/common/caticons/episode-hd.png"] {
@@ -3553,7 +3560,7 @@ img[src$="/common/browsetags/report.png"] {
   height: 15px;
   padding-left: 15px;
   width: 0;
-  background-color: #EB6123;
+  background-color: #C52A2A;
 }
 
 img[src$="/common/browsetags/new.png"] {
