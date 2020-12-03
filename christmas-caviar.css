@@ -1030,7 +1030,7 @@ li.potato-menu-has-vertical:nth-of-type(7) .potato-menu-group .potato-menu-item 
 
 .alertbar {
   position: relative;
-  background: linear-gradient(to right, #5e32ba, #eb6123);
+  background: linear-gradient(to right, #c52a2a, #ffffff, #659a48);
   text-align: center;
   color: white;
   font-size: 0.8em;
