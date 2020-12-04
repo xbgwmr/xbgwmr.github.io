@@ -1049,7 +1049,7 @@ li.potato-menu-has-vertical:nth-of-type(7) .potato-menu-group .potato-menu-item 
 
 #alerts a,
 ul#twitter_update_list li span a {
-  color: white;
+  color: black;
 }
 
 .alertbar a,
