@@ -1,6 +1,6 @@
 /*!
  * Theme Name:      Christmas Caviar
- * Version:         0.2.0
+ * Version:         0.3.0
  */
 /* External fonts */
 @import url("https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i|Roboto+Mono:400,400i,700,700i|Noto+Serif:400,400i,700,700i");
@@ -1187,7 +1187,7 @@ li.ui-state-hover {
 
 .ui-autocomplete.ui-menu .ui-menu-item a {
   padding: 5px 9px !important;
-  background: #E9804D !important;
+  background: #659a48 !important;
   color: white !important;
   font-weight: 400;
   font-size: 11px;
@@ -1201,13 +1201,13 @@ li.ui-state-hover {
 .ui-widget-content .ui-state-hover,
 .ui-widget-header .ui-state-hover,
 .ui-state-hover {
-  background: #E9804D !important;
+  background: #659a48 !important;
   color: white !important;
   border: none !important;
 }
 
 #ui-active-menuitem {
-  background: #412365 !important;
+  background: #c52a2a !important;
   margin: 0 !important;
 }
 
@@ -1838,7 +1838,7 @@ div.rating-bg {
 .ui-widget-content .ui-tabs-selected,
 .ui-widget-header .ui-tabs-selected,
 .ui-tabs-selected {
-  background: #E9804D !important;
+  background: #659a48 !important;
   color: white !important;
   margin: 1px !important;
 }
@@ -3580,7 +3580,7 @@ img[src$="/common/browsetags/20x.png"] {
   height: 15px;
   padding-left: 45px;
   width: 0;
-  background-color: #E9804D;
+  background-color: #659a48;
 }
 
 img[src$="/common/browsetags/fast.png"] {
@@ -4204,7 +4204,7 @@ a > span[class^=permission_]:active {
   transition: none;
 }
 .tor_highlight_seed:hover, .tor_highlight_seed:focus, .tor_highlight_seed:active {
-  color: #E9804D !important;
+  color: #659a48 !important;
 }
 .discog .tor_highlight_seed {
   color: #659A48 !important;
@@ -4214,7 +4214,7 @@ a > span[class^=permission_]:active {
   transition: none;
 }
 .discog .tor_highlight_seed:hover, .discog .tor_highlight_seed:focus, .discog .tor_highlight_seed:active {
-  color: #E9804D !important;
+  color: #659a48 !important;
 }
 
 .tor_highlight_leech {
@@ -4225,7 +4225,7 @@ a > span[class^=permission_]:active {
   transition: none;
 }
 .tor_highlight_leech:hover, .tor_highlight_leech:focus, .tor_highlight_leech:active {
-  color: #E9804D !important;
+  color: #659a48 !important;
 }
 .discog .tor_highlight_leech {
   color: #E8E5DE !important;
@@ -4235,7 +4235,7 @@ a > span[class^=permission_]:active {
   transition: none;
 }
 .discog .tor_highlight_leech:hover, .discog .tor_highlight_leech:focus, .discog .tor_highlight_leech:active {
-  color: #E9804D !important;
+  color: #659a48 !important;
 }
 
 .tor_highlight_snatch {
@@ -4246,7 +4246,7 @@ a > span[class^=permission_]:active {
   transition: none;
 }
 .tor_highlight_snatch:hover, .tor_highlight_snatch:focus, .tor_highlight_snatch:active {
-  color: #E9804D !important;
+  color: #659a48 !important;
 }
 .discog .tor_highlight_snatch {
   color: #C52A2A !important;
@@ -4256,7 +4256,7 @@ a > span[class^=permission_]:active {
   transition: none;
 }
 .discog .tor_highlight_snatch:hover, .discog .tor_highlight_snatch:focus, .discog .tor_highlight_snatch:active {
-  color: #E9804D !important;
+  color: #659a48 !important;
 }
 
 /* Containers */
