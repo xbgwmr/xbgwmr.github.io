@@ -1021,7 +1021,7 @@ li.potato-menu-has-vertical:nth-of-type(7) .potato-menu-group .potato-menu-item 
   position: relative;
   background: linear-gradient(to right, #ab4642, #dc9656, #f7ca88, #a1b56c, #86c1b9, #7cafc2, #ba8baf);
   text-align: center;
-  color: #282828 !important;
+  color: #282828;
   font-size: 0.8em;
   margin: 2px 0;
   padding: 9px 0;
@@ -4366,11 +4366,11 @@ a:active .User {
 }
 
 /* Shame - This CSS is bad, and you should feel bad */
-.alertbar[style="border:1px solid #32506e !important;background-color:#00254A !important;margin-bottom:3px !important;color:#CCC !important;"] span {
+.alertbar[style="border:1px solid #32506e !important;background-color:#00254A !important;margin-bottom:3px !important;"] span {
   color: #282828 !important;
   position: relative;
 }
-.alertbar[style="border:1px solid #32506e !important;background-color:#00254A !important;margin-bottom:3px !important;color:#CCC !important;"]::before {
+.alertbar[style="border:1px solid #32506e !important;background-color:#00254A !important;margin-bottom:3px !important;color:"]::before {
   content: "";
   position: absolute;
   top: -1px;
