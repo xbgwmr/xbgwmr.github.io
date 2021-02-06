@@ -1019,16 +1019,15 @@ li.potato-menu-has-vertical:nth-of-type(7) .potato-menu-group .potato-menu-item 
 
 .alertbar {
   position: relative;
-  background: linear-gradient(to right, #ab4642, #dc9656, #f7ca88, #a1b56c, #86c1b9, #7cafc2, #ba8baf);
+ /*  background: linear-gradient(to right, #ab4642, #dc9656, #f7ca88, #a1b56c, #86c1b9, #7cafc2, #ba8baf); */
   text-align: center;
   color: #282828 !important;
-  font-size: 12px;
+  font-size: 13px;
   margin: 2px 0;
   padding: 9px 0;
   vertical-align: middle;
   border: none;
-  
-   -webkit-text-stroke: 1px black;
+  font-weight: 400;
 }
 .alertbar a {
   position: relative;
