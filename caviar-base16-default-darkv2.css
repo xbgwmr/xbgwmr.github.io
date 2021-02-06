@@ -1045,7 +1045,7 @@ ul#twitter_update_list li span a {
 .ui-state-hover,
 a.ui-state-hover,
 li.ui-state-hover {
-  color: #282828 !important;
+  color: #CCC !important;
 }
 
 .alertbar a:hover {
