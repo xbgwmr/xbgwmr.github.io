@@ -1,6 +1,6 @@
 /*!
  * Theme Name:      Caviar [base16-default-dark]
- * Version:         1.5.1.2
+ * Version:         1.5.1.3
  * Last Updated:    14 May 2020
  * Forum Thread:    /forums.php?action=viewthread&threadid=21795
  */
@@ -4366,7 +4366,26 @@ a:active .User {
 }
 
 /* Shame - This CSS is bad, and you should feel bad */
+.alertbar[style="border:1px solid #32506e !important;background-color:#00254A !important;margin-bottom:3px !important;color: #282828 !important;"] span {
+  color: #282828 !important;
+  position: relative;
+}
+.alertbar[style="border:1px solid #32506e !important;background-color:#00254A !important;margin-bottom:3px !important;color: #282828 !important;"]::before {
+  content: "";
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  bottom: -2px;
+  right: -1px;
+  background: linear-gradient(to right, #ab4642, #dc9656, #f7ca88, #a1b56c, #86c1b9, #7cafc2, #ba8baf);
+}
 
+.alertbar[style="border:1px solid #360;background-color:#120;margin-bottom:3px;"] {
+  color: #282828 !important;
+  border: none !important;
+  margin-bottom: 2px !important;
+  height: 36px !important;
+}
 
 div[style="padding-top:8px;background-color:#322;color:#ecc;"] {
   padding-top: 8px !important;
