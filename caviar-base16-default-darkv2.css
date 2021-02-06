@@ -1,6 +1,6 @@
 /*!
  * Theme Name:      Caviar [base16-default-dark]
- * Version:         1.5.1
+ * Version:         1.5.1.1
  * Last Updated:    14 May 2020
  * Forum Thread:    /forums.php?action=viewthread&threadid=21795
  */
@@ -4370,7 +4370,7 @@ a:active .User {
   color: #282828 !important;
   position: relative;
 }
-.alertbar[style="border:1px solid #32506e !important;background-color:#00254A !important;margin-bottom:3px !important;color:"]::before {
+.alertbar[style="border:1px solid #32506e !important;background-color:#00254A !important;margin-bottom:3px !important;"]::before {
   content: "";
   position: absolute;
   top: -1px;
