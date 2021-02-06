@@ -1019,7 +1019,7 @@ li.potato-menu-has-vertical:nth-of-type(7) .potato-menu-group .potato-menu-item 
 
 .alertbar {
   position: relative;
- /*  background: linear-gradient(to right, #ab4642, #dc9656, #f7ca88, #a1b56c, #86c1b9, #7cafc2, #ba8baf); */
+  background: linear-gradient(to right, #ab4642, #00254a, #00254a, #00254a, #00254a, #00254a, #ba8baf);
   text-align: center;
   color: #282828 !important;
   font-size: 13px;
