@@ -1,6 +1,6 @@
 /*!
  * Theme Name:      Christmas Caviar
- * Version:         0.3.0a
+ * Version:         0.3.0b
  */
 /* External fonts */
 @import url("https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i|Roboto+Mono:400,400i,700,700i|Noto+Serif:400,400i,700,700i");
@@ -1641,7 +1641,7 @@ table.torrent_table tr.torrent > td:nth-child(2) {
 }
 table.torrent_table tr.torrent > td:nth-child(2) img[width="170"] {
   position: absolute;
-  width: 379px;
+  width: 217px;
   height: 70px;
   top: 0;
   left: 0;
