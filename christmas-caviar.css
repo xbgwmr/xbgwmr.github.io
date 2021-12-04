@@ -1,6 +1,6 @@
 /*!
  * Theme Name:      Christmas Caviar
- * Version:         0.3.0
+ * Version:         0.3.0a
  */
 /* External fonts */
 @import url("https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i|Roboto+Mono:400,400i,700,700i|Noto+Serif:400,400i,700,700i");
@@ -15,7 +15,7 @@ body {
   font-family: "Lato", Helvetica, Arial, sans-serif;
   font-size: 14px;
   color: #e9e9e9;
-  background: #0A0F07;
+  background: #181818;
 }
 
 a {
@@ -434,7 +434,7 @@ p.min_padding {
 .box {
   padding: 10px;
   font-size: 12px;
-  background-color: #111111;
+  background-color: #282828;
 }
 
 .pad h3,
@@ -1641,7 +1641,7 @@ table.torrent_table tr.torrent > td:nth-child(2) {
 }
 table.torrent_table tr.torrent > td:nth-child(2) img[width="170"] {
   position: absolute;
-  width: 217px;
+  width: 379px;
   height: 70px;
   top: 0;
   left: 0;
@@ -1716,10 +1716,7 @@ body#series .main_column > .box .body {
 }
 body#series div[style="height:140px;"],
 body#series div[style="height:140px; max-height:140px;max-width:758px;"] {
-  width: 1001px !important;
-  height: 185px !important;
-  max-width: 1001px !important;
-  max-height: 185px !important;
+
   overflow: hidden;
 }
 body#series #addtrailer {
