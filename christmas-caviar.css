@@ -1,6 +1,6 @@
 /*!
  * Theme Name:      Christmas Caviar
- * Version:         0.3.1
+ * Version:         0.3.2
  */
 /* External fonts */
 @import url("https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i|Roboto+Mono:400,400i,700,700i|Noto+Serif:400,400i,700,700i");
@@ -21,14 +21,14 @@ body {
 a {
   text-decoration: none;
   border: none;
-  color: #659A48;
+  color: #C52A2A;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
   transition: none;
 }
 a:hover, a:focus, a:active {
-  color: #C52A2A;
+  color: #659A48;
 }
 
 ::-moz-selection {
@@ -507,7 +507,7 @@ table {
 }
 
 tr {
-  background-color: #2c2f36;
+  background-color: #23252B;
   border-bottom: 2px solid #2c2f36;
 }
 
