@@ -933,7 +933,6 @@ ul.potato-menu li.potato-menu-item {
 }
 ul.potato-menu ul.potato-menu-group {
   position: absolute;
-  display: none;
   z-index: 1000;
   text-align: left;
   margin: 0;
