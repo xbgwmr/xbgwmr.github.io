@@ -2001,7 +2001,7 @@ body>.ui-widget-content .ui-state-hover {
 #collages .main_column table tr td:nth-of-type(2)>a>img,
 .torrent_table tr td:nth-of-type(2)>a>img {
     border-radius: 5px;
-    width: 250px;
+    width: 325px;
     height: 60px
 }
 
